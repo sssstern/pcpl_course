@@ -1,8 +1,4 @@
 import telebot;
-from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, CallbackQueryHandler, MessageHandler, ConversationHandler, filters, CallbackContext, Updater
-
-from config import Config
 
 from telebot import types
 
